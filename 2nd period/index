@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VRMS Game Gallery 2025</title>
+  <base target="_blank">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f5f7fa;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #1a237e;
+    }
+    h2 {
+      color: #0d47a1;
+      border-bottom: 2px solid #bbdefb;
+      padding-bottom: 4px;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin: 6px 0;
+    }
+    a {
+      text-decoration: none;
+      color: #1976d2;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>View Ridge Game Gallery 2025</h1>
+  <p style="text-align:center;">Programming 2 TWINE Story Collection</p>
+
+  <h2>Period 2</h2>
+<ul>
+  <li><a href="period2/anna.html">Anna</a></li>
+  <li><a href="period2/bennett.html">Bennett</a></li>
+  <li><a href="period2/christian.html">Christian</a></li>
+  <li><a href="period2/danill.html">Danill</a></li>
+  <li><a href="period2/james.html">James</a></li>
+  <li><a href="period2/lincoln.html">Lincoln</a></li>
+  <li><a href="period2/nicholas.html">Nicholas</a></li>
+</ul>
+ 
+  <footer>
+    © 2026 View Ridge Middle School | Ridgefield, WA
+  </footer>
+</body>
+</html>
